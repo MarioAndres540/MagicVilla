@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aaNOp/gfLY+hU8Ew5bEd6rwTQKBsQfaPM/DO6E0OOudGYNABQ0j5rYZvI/RgrtCjm3G/KU8ArOCWPTsb4G/kkg==",
+  "dgSpecHash": "/XTJEAjJNKUM+gxRn0r1d/HppygKQ4NYeqW0sm9ghox9WOcfLxu8zbWw1UvgeDO0K5YcE42uwzXOKDtKgVr5gQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mario\\Projects\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
